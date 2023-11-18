@@ -1,0 +1,1 @@
+generates multi-layer perceptron to predict handwritten digits. Serializes and saves model if it does not exist, loads it if it does to prevent repetition of expensive model generation. Loaded images are 28x28 pixels.
